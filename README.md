@@ -71,17 +71,6 @@ This project implements a voice-based conversational AI system using Sarvam AI's
 - **Dependencies**: Ensure all required libraries (`requests`, `sounddevice`, `soundfile`) are installed.
 - **Language Detection**: If language detection fails, check the audio quality or specify a language code in `transcribe()`.
 
-## Contributing
-Contributions are welcome! Please:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Powered by [Sarvam AI](https://sarvam.ai/) APIs for ASR, LLM, and TTS.
 - Built with Python libraries: `requests`, `sounddevice`, and `soundfile`.
